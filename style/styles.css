@@ -22,6 +22,12 @@ h6 {
 p {
   font-family: var(--default-font-family);
 }
+
+.bg-design {
+  box-shadow: var(--box-shadow);
+  opacity: 0.8;
+  font-size: 22px;
+}
 .intro-foto {
   max-width: 600px;
   box-shadow: rgba(0, 0, 0, 0.2) 20px 20px 30px;
